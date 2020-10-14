@@ -33,6 +33,7 @@
 		</relationship>
 		<relationship name="parameters">
 			<destination>{f298457c-19dc-4774-833d-f6f8ef28d8ef}</destination>
+			<destination>{0871289e-7dac-445c-b3c9-e99e485bddf3}</destination>
 		</relationship>
 		<relationship name="banks">
 			<destination>{8c33d461-1ecb-4d38-83bf-8ade52dc7ba8}</destination>
@@ -77,6 +78,11 @@
 	<object class="ActionSheet" id="{f298457c-19dc-4774-833d-f6f8ef28d8ef}">
 		<relationship name="modules">
 			<destination>{32307f53-f15e-4599-bbbf-25a267ae54af}</destination>
+		</relationship>
+	</object>
+	<object class="ParameterProxy" id="{0871289e-7dac-445c-b3c9-e99e485bddf3}">
+		<relationship name="preset">
+			<destination>{d6c34155-22ce-4949-95d0-734593b3e3ae}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{a320e7ea-eeb1-47fb-83b5-e60b337fc0f8}">
