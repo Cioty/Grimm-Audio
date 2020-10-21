@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="MixerGroup" id="{eaead81a-6850-447b-8943-ab8f3d148cdf}">
+		<property name="name">
+			<value>submaster</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{6265066c-b455-4186-b54c-8d24e23e2b31}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{61b71f49-d098-45e1-b440-9ec200b4d341}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{d9100e41-8bb3-403c-9678-230723426632}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{6265066c-b455-4186-b54c-8d24e23e2b31}">
+		<relationship name="effects">
+			<destination>{1c83c5ad-dcbd-47ac-8d33-eaceae0d0038}</destination>
+			<destination>{0d697af0-2969-4b9d-a451-8005afe6a1a2}</destination>
+			<destination>{f8920abc-3e64-42c5-b8dc-2303745c63a4}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{61b71f49-d098-45e1-b440-9ec200b4d341}" />
+	<object class="MixerBusFader" id="{1c83c5ad-dcbd-47ac-8d33-eaceae0d0038}" />
+	<object class="MultibandEqEffect" id="{0d697af0-2969-4b9d-a451-8005afe6a1a2}" />
+	<object class="SFXReverbEffect" id="{f8920abc-3e64-42c5-b8dc-2303745c63a4}" />
+</objects>
