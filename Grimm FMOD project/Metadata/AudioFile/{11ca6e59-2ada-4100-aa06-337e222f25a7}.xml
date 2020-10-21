@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{11ca6e59-2ada-4100-aa06-337e222f25a7}">
 		<property name="assetPath">
-			<value>random slide.wav</value>
+			<value>New Folder/random slide.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

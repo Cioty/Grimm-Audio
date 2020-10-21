@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{3a546999-0731-47c7-bbdc-908d153c7574}">
 		<property name="assetPath">
-			<value>r scream2.wav</value>
+			<value>New Folder/r scream2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
