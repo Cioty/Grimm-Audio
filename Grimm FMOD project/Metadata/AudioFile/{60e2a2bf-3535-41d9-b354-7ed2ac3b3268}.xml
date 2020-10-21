@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{60e2a2bf-3535-41d9-b354-7ed2ac3b3268}">
 		<property name="assetPath">
-			<value>heavy impact 2.wav</value>
+			<value>New Folder/heavy impact 2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{de0d61c3-1ba5-4376-9031-8245d4237d03}">
 		<property name="assetPath">
-			<value>UI long confirm.wav</value>
+			<value>New Folder/UI long confirm.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

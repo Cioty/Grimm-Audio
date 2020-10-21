@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{c82b218b-2ff6-4641-a43d-a8713599b1b8}">
 		<property name="assetPath">
-			<value>UI blip1.wav</value>
+			<value>New Folder/UI blip1.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
