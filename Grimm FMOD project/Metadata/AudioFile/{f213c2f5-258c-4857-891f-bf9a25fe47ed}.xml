@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{f213c2f5-258c-4857-891f-bf9a25fe47ed}">
+		<property name="assetPath">
+			<value>player roll/Grimm_Player_Roll_Attack_7.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.0416666666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1f6a5534-83cb-44ee-bfe5-602ecdb9f92e}</destination>
+		</relationship>
+	</object>
+</objects>

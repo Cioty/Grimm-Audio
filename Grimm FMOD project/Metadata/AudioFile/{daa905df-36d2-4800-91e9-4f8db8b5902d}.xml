@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{daa905df-36d2-4800-91e9-4f8db8b5902d}">
+		<property name="assetPath">
+			<value>player hit confirms/Grimm Player Hit Reaction_02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.25</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1f6a5534-83cb-44ee-bfe5-602ecdb9f92e}</destination>
+		</relationship>
+	</object>
+</objects>
