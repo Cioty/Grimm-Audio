@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
 	<object class="Event" id="{71caac34-7c53-4142-9179-7af21bd405e0}">
-		<property name="note" />
 		<property name="name">
 			<value>raven death</value>
 		</property>
@@ -123,6 +122,7 @@
 		<relationship name="effects">
 			<destination>{7bad38d9-a263-4bba-b791-e97abd360c22}</destination>
 			<destination>{7a65a464-4943-49cb-8d8c-f6733e80437e}</destination>
+			<destination>{67e6e052-32f3-4993-b2c9-7427df61213d}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{fbcbe1a6-892e-4ee3-8213-abbb86aef3df}" />
@@ -157,6 +157,11 @@
 		</property>
 		<property name="minimumExtent">
 			<value>170</value>
+		</property>
+	</object>
+	<object class="SFXReverbEffect" id="{67e6e052-32f3-4993-b2c9-7427df61213d}">
+		<property name="decayTime">
+			<value>4800</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{17553a3d-1f03-46b1-8dfe-0a679970d23d}" />
