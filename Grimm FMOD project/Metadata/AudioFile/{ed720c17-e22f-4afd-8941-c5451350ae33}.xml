@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
-	<object class="AudioFile" id="{2d1a9ac9-bc76-4870-9c8a-1a62729aa7a0}">
+	<object class="AudioFile" id="{ed720c17-e22f-4afd-8941-c5451350ae33}">
 		<property name="assetPath">
-			<value>boss combo/Grimm Boss Combo 2_04.wav</value>
+			<value>boss combo/boss combo -002.wav</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>48</value>
+			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>1.5833333333333333</value>
+			<value>1.9033333333333333</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{1f6a5534-83cb-44ee-bfe5-602ecdb9f92e}</destination>
