@@ -136,9 +136,6 @@
 	<object class="MixerBusPanner" id="{78aba670-c3ce-43c5-8d44-63ece1e43e34}" />
 	<object class="MixerBusFader" id="{269a3a51-d4c4-4801-81a6-0eac3f594a5e}" />
 	<object class="SpatialiserEffect" id="{76a45228-6dfa-41e6-9776-dd20ff4ccac6}">
-		<property name="bypass">
-			<value>true</value>
-		</property>
 		<property name="extentMode">
 			<value>1</value>
 		</property>
