@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{8afcfc8d-781d-4e16-ad34-e0772c3e92b0}">
+		<property name="assetPath">
+			<value>music/Grimm_Low_Final.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>72</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1f6a5534-83cb-44ee-bfe5-602ecdb9f92e}</destination>
+		</relationship>
+	</object>
+</objects>
