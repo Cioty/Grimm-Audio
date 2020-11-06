@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{b52ebcc7-c221-4afd-bde6-9d7acae5b5d7}">
 		<property name="assetPath">
-			<value>player roll/Grimm Player Roll Attack_Grass_03.wav</value>
+			<value>player roll/vocalisation/Grimm Player Roll Attack_Grass_03.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

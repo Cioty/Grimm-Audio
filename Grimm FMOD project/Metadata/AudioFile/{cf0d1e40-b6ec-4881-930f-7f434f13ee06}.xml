@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{cf0d1e40-b6ec-4881-930f-7f434f13ee06}">
 		<property name="assetPath">
-			<value>gatebreak/gate break.wav</value>
+			<value>gate/gate break.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
