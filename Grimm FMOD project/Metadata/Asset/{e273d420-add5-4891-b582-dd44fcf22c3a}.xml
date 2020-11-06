@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="EncodableAsset" id="{e273d420-add5-4891-b582-dd44fcf22c3a}">
 		<property name="assetPath">
-			<value>gatebreak/</value>
+			<value>gate/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{1f6a5534-83cb-44ee-bfe5-602ecdb9f92e}</destination>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
 	<object class="Event" id="{71caac34-7c53-4142-9179-7af21bd405e0}">
-		<property name="note" />
 		<property name="name">
 			<value>raven death</value>
 		</property>
@@ -81,6 +80,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{7402940d-6bf7-41b2-a56c-8f07dd97a327}">
+		<property name="volume">
+			<value>-11</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{860be9dd-4044-4126-b9b6-a9c6d5bc914d}</destination>
 		</relationship>
